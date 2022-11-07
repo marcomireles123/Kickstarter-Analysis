@@ -5,6 +5,7 @@ One of the most common uses of Excel in the field of academia is keeping track o
 ## Instructions
 
 * Create a formula that calculates the final grade for a student based upon their previous exams and papers.
+* =SUM(B2:E2)/100
 
 * When making this calculation:
 
